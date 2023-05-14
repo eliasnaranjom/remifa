@@ -5,7 +5,7 @@ const Nav = props => {
 
   return (
     <nav className="Nav">
-      <img className='NavTitle' src={`../${props.SiteName}`} alt='Imagen' />
+      <Image className='NavTitle' src={`../${props.SiteName}`} alt='Imagen' />
       <ul className="Nav-list">
         {/* <li className="Nav-item">
           <a href='#'>
