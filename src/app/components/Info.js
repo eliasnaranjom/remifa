@@ -1,12 +1,11 @@
 import '../css/Info.css';
-import Image from 'next/image';
 
 const Info = props => {
 
     return (
         <section className={props.classNameDirection} id='Info'>
             <div className='InfoImg'>
-                <Image src='../guitar.jpg' alt='Guitar' />
+                <img src='../guitar.jpg' alt='Guitar' />
             </div>
             <div className='InfoText'>
                 <h1>Titulo información</h1>
