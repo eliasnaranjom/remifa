@@ -11,7 +11,7 @@ const CoursesCarrusel = ({data}) => {
             <div className='Carousel'>
                 {data.map((item) => (
                     <CardCourse Title={item.Title} Description={item.Description} />
-                ))}
+                ))};
             </div>
         </section>
     );
