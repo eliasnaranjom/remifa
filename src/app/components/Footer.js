@@ -19,7 +19,7 @@ const Header = props => {
     return (
         <footer className='Footer'>
             <div className='secFooter'>
-                <Image className='FooterTitle' src={`../${site}`} alt='Imagen' />
+                <img className='FooterTitle' src={`../${site}`} alt='Imagen' />
             </div>
             <div className='secFooter'>
                 <h3>Nuestros cursos</h3>
