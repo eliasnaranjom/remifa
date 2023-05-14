@@ -14,5 +14,5 @@
 
 .Carousel{
     margin: auto;
-    display: flex;
+    column-count: 3;
 }
