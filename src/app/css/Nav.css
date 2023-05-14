@@ -1,0 +1,34 @@
+/* Nav.css */
+.Nav {
+  margin: 0% 10%;
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.NavTitle {
+  width: 10%;
+}
+
+.Nav-list {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.Nav-item {
+  margin: 0 10px;
+
+}
+
+.Nav-item a{
+  text-decoration: none;
+  color: var(--text-color);
+}
+
+.Nav-title {
+  margin: 0;
+}

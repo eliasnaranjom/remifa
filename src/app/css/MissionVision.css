@@ -1,0 +1,30 @@
+.MissionVision{
+    background-color: rgb(242, 76, 181);
+    color: white;
+    padding: 2% 20%;
+    text-align: center;
+    display: flex;
+
+    height: 50vh;
+    max-height: 50vh;
+}
+
+.MissionVision div {
+    display: inline-block;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 39px 39px 39px 39px;
+    -moz-border-radius: 39px 39px 39px 39px;
+    -webkit-border-radius: 39px 39px 39px 39px;
+
+}
+
+.MissionVision h1{
+    font-size: 2em;
+    margin-bottom: 1%;
+}
+
+.MissionVision p{
+    text-align: justify;
+    
+}

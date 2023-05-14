@@ -1,0 +1,24 @@
+.Footer {
+    padding: 5% 10%;
+    background: linear-gradient(#e66465, #9198e5);
+    ;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.FooterTitle {
+    width: 50%;
+}
+
+.secFooter{
+    width: 25%;
+}
+
+.ListFooter {
+    list-style: none;
+}
+
+.ListFooter li {
+    margin-top: 2%;
+}

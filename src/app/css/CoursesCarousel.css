@@ -1,0 +1,18 @@
+.CoursesCarousel {
+    background-color: white;
+    color: black;
+    padding: 3.5% 20%;
+
+    height: 100vh;
+}
+
+.CoursesCarousel h1 {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+.Carousel{
+    margin: auto;
+    display: flex;
+}

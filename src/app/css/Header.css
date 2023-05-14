@@ -1,0 +1,42 @@
+.headerApp {
+    height: 100vh;
+    /* background-image: url('../assets/bg1.svg');
+    background-size: 100%;
+    background-repeat: no-repeat; */
+    background: rgb(92, 49, 136);
+    background: linear-gradient(90deg, rgba(92, 49, 136, 1) 0%, rgba(99, 172, 225, 1) 100%);
+}
+
+.headerContent {
+    display: flex;
+    align-items: stretch;
+}
+
+.titlePage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 4%;
+}
+
+.titlePage h1 {
+    font-size: 3em;
+}
+
+.titlePage h1,
+p {
+    margin-bottom: 2vh;
+}
+
+.imgTitle {
+    display: inline-block;
+    width: 50%;
+    box-sizing: border-box;
+    text-align: right;
+}
+
+.imgTitle>img {
+    width: 80%;
+}

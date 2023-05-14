@@ -1,0 +1,263 @@
+                {/* <div className="card">
+                    <img src="https://via.placeholder.com/150" alt="Placeholder Image" />
+                    <h2>Titulo de la Tarjeta</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vitae mauris vel justo commodo feugiat.</p>
+                    <a href="#" class="button">Botón</a>
+                </div> */}
+
+
+                {/* <div class="card-container">
+                    <div class="card">
+                        <img src="https://via.placeholder.com/350x200" alt="Curso de Piano" />
+                        <h2>Curso de Piano</h2>
+                        <p>Este curso es para todos los niveles, desde principiantes hasta avanzados. Aprende a tocar el piano con nuestros profesores expertos.</p>
+                        <a href="#" class="button">Más información</a>
+                    </div>
+
+                    <div class="card">
+                        <img src="https://via.placeholder.com/350x200" alt="Curso de Guitarra" />
+                        <h2>Curso de Guitarra</h2>
+                        <p>Aprende a tocar la guitarra acústica o eléctrica con nuestros profesores experimentados. Ofrecemos clases para principiantes y avanzados.</p>
+                        <a href="#" class="button">Más información</a>
+                    </div>
+
+                    <div class="card">
+                        <img src="https://via.placeholder.com/350x200" alt="Curso de Canto" />
+                        <h2>Curso de Canto</h2>
+                        <p>Mejora tus habilidades vocales con nuestros profesores de canto experimentados. Ofrecemos clases individuales y grupales para todos los niveles.</p>
+                        <a href="#" class="button">Más información</a>
+                    </div>
+                </div> */}
+
+
+                <div class="card-carousel">
+                    <div class="card-container">
+                        <div class="card">
+                            <img src="https://via.placeholder.com/350x200" alt="Curso de Piano" />
+                            <h2>Curso de Piano</h2>
+                            <p>Este curso es para todos los niveles, desde principiantes hasta avanzados. Aprende a tocar el piano con nuestros profesores expertos.</p>
+                            <a href="#" class="button">Más información</a>
+                        </div>
+
+                        <div class="card">
+                            <img src="https://via.placeholder.com/350x200" alt="Curso de Guitarra" />
+                            <h2>Curso de Guitarra</h2>
+                            <p>Aprende a tocar la guitarra acústica o eléctrica con nuestros profesores experimentados. Ofrecemos clases para principiantes y avanzados.</p>
+                            <a href="#" class="button">Más información</a>
+                        </div>
+
+                        <div class="card">
+                            <img src="https://via.placeholder.com/350x200" alt="Curso de Canto" />
+                            <h2>Curso de Canto</h2>
+                            <p>Mejora tus habilidades vocales con nuestros profesores de canto experimentados. Ofrecemos clases individuales y grupales para todos los niveles.</p>
+                            <a href="#" class="button">Más información</a>
+                        </div>
+                    </div>
+
+                    <div class="controls">
+                        <button class="prev-button">&#10094;</button>
+                        <button class="next-button">&#10095;</button>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                /* .card {
+                    background-color: #fff;
+                    border-radius: 8px;
+                    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+                    padding: 16px;
+                    text-align: center;
+                  }
+                  
+                  .card img {
+                    border-radius: 8px;
+                    height: auto;
+                    max-width: 100%;
+                  }
+                  
+                  .card h2 {
+                    font-size: 24px;
+                    margin-bottom: 8px;
+                  }
+                  
+                  .card p {
+                    color: #444;
+                    font-size: 16px;
+                    line-height: 1.5;
+                    margin-bottom: 16px;
+                  }
+                  
+                  .card .button {
+                    background-color: #0077FF;
+                    border: none;
+                    border-radius: 4px;
+                    color: #fff;
+                    font-size: 16px;
+                    padding: 8px 16px;
+                    text-decoration: none;
+                    transition: background-color 0.3s ease;
+                  }
+                  
+                  .card .button:hover {
+                    background-color: #005BCC;
+                  } */
+                  
+                
+                  /* .card-container {
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                    margin: 0 auto;
+                    max-width: 1200px;
+                  }
+                  
+                  .card {
+                    background-color: #fff;
+                    border-radius: 8px;
+                    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+                    margin: 16px;
+                    max-width: 350px;
+                    padding: 16px;
+                    text-align: center;
+                  }
+                  
+                  .card img {
+                    border-radius: 8px;
+                    height: auto;
+                    max-width: 100%;
+                    margin-bottom: 16px;
+                  }
+                  
+                  .card h2 {
+                    font-size: 24px;
+                    margin-bottom: 8px;
+                  }
+                  
+                  .card p {
+                    color: #444;
+                    font-size: 16px;
+                    line-height: 1.5;
+                    margin-bottom: 16px;
+                  }
+                  
+                  .card .button {
+                    background-color: #0077FF;
+                    border: none;
+                    border-radius: 4px;
+                    color: #fff;
+                    font-size: 16px;
+                    padding: 8px 16px;
+                    text-decoration: none;
+                    transition: background-color 0.3s ease;
+                  }
+                  
+                  .card .button:hover {
+                    background-color: #005BCC;
+                  } */
+                  
+                
+                  .card-carousel {
+                    position: relative;
+                    width: 100%;
+                    overflow: hidden;
+                  }
+                  
+                  .card-container {
+                    display: flex;
+                    flex-wrap: nowrap;
+                    width: 100%;
+                    transition: transform 0.3s ease-in-out;
+                  }
+                  
+                  .card {
+                    background-color: #fff;
+                    border-radius: 8px;
+                    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+                    margin: 16px;
+                    max-width: 350px;
+                    padding: 16px;
+                    text-align: center;
+                  }
+                  
+                  .card img {
+                    border-radius: 8px;
+                    height: auto;
+                    max-width: 100%;
+                    margin-bottom: 16px;
+                  }
+                  
+                  .card h2 {
+                    font-size: 24px;
+                    margin-bottom: 8px;
+                  }
+                  
+                  .card p {
+                    color: #444;
+                    font-size: 16px;
+                    line-height: 1.5;
+                    margin-bottom: 16px;
+                  }
+                  
+                  .card .button {
+                    background-color: #0077FF;
+                    border: none;
+                    border-radius: 4px;
+                    color: #fff;
+                    font-size: 16px;
+                    padding: 8px 16px;
+                    text-decoration: none;
+                    transition: background-color 0.3s ease;
+                  }
+                  
+                  .card .button:hover {
+                    background-color: #005BCC;
+                  }
+                  
+                  .controls {
+                    display: flex;
+                    justify-content: center;
+                    position: absolute;
+                    bottom: 16px;
+                    left: 0;
+                    right: 0;
+                  }
+                  
+                  .prev-button,
+                  .next-button {
+                    background-color: rgba(255, 255, 255, 0.5);
+                    border: none;
+                    color: #333;
+                    cursor: pointer;
+                    font-size: 24px;
+                    padding: 8px 16px;
+                    position: absolute;
+                    top: 50%;
+                    transform: translateY(-50%);
+                    transition: background-color 0.3s ease;
+                  }
+                  
+                  .prev-button:hover,
+                  .next-button:hover {
+                    background-color: rgba(255, 255, 255, 0.8);
+                  }
+                  
+                  .prev-button {
+                    left: 16px;
+                  }
+                  
+                  .next-button {
+                    right: 16px;
+                  }

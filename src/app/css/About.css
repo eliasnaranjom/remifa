@@ -1,0 +1,19 @@
+.About{
+    background-color: white;
+    color: black;
+    padding: 6% 20%;
+    text-align: center;
+
+    height: 50vh;
+    max-height: 50vh;
+}
+
+.About h1{
+    font-size: 2em;
+    margin-bottom: 1%;
+}
+
+.About p{
+    text-align: center;
+    
+}

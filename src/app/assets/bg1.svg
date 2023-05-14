@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 6860 4000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: #ff8cc8;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #102770;
+      }
+
+      .cls-4 {
+        mask: url(#mask-2);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-6 {
+        mask: url(#mask-3);
+      }
+
+      .cls-7 {
+        mask: url(#mask-4);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-10 {
+        fill: none;
+      }
+
+      .cls-11 {
+        mask: url(#mask-1);
+      }
+
+      .cls-12 {
+        mask: url(#mask);
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-14 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-15 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-10" width="6860" height="4000"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="371.5" y1="2144.51" x2="8068.05" y2="1780.86" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fa5c98"/>
+      <stop offset="1" stop-color="#1e008b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-71.96" y1="4908.63" x2="5347.08" y2="1512.9" gradientTransform="translate(526.49 -56.48)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <mask id="mask" x="3152.21" y="0" width="3707.79" height="4000" maskUnits="userSpaceOnUse">
+      <rect class="cls-1" x="3152.21" y="0" width="3707.79" height="4000"/>
+    </mask>
+    <linearGradient id="linear-gradient-3" x1="2766.78" y1="6715.42" x2="4432.01" y2="599.48" gradientTransform="translate(303.67 -56.48)" xlink:href="#linear-gradient-2"/>
+    <mask id="mask-1" x="1817.95" y="0" width="5042.05" height="4000" maskUnits="userSpaceOnUse">
+      <rect class="cls-13" x="1817.95" y="0" width="5042.05" height="4000"/>
+    </mask>
+    <linearGradient id="linear-gradient-4" x1="3889.72" y1="4482.31" x2="4877.76" y2="853.53" gradientTransform="translate(605.53 -216.74)" xlink:href="#linear-gradient-2"/>
+    <mask id="mask-2" x="3625.53" y="0" width="3234.47" height="3040.38" maskUnits="userSpaceOnUse">
+      <rect class="cls-15" x="3625.53" width="3234.47" height="3040.38"/>
+    </mask>
+    <linearGradient id="linear-gradient-5" x1="1561.2" y1="6040.74" x2="2100.13" y2="1693.39" gradientTransform="translate(.08 -56.48)" xlink:href="#linear-gradient-2"/>
+    <mask id="mask-3" x="0" y="1447.99" width="3930.88" height="2552.01" maskUnits="userSpaceOnUse">
+      <rect class="cls-8" y="1447.99" width="3930.88" height="2552.01"/>
+    </mask>
+    <linearGradient id="linear-gradient-6" x1="916.91" y1="5939.91" x2="1587.22" y2="2440.65" gradientTransform="translate(.08 -56.48)" xlink:href="#linear-gradient-2"/>
+    <mask id="mask-4" x="0" y="2569.79" width="2829.51" height="1430.21" maskUnits="userSpaceOnUse">
+      <rect class="cls-5" y="2569.79" width="2829.51" height="1430.21"/>
+    </mask>
+  </defs>
+  <g class="cls-9">
+    <rect class="cls-14" width="6860" height="4000"/>
+  </g>
+  <g class="cls-12">
+    <path class="cls-3" d="m6860,4000h-703.26C3668.63,3311.09,4572.68,1157.34,3152.21,0h3707.79v4000Z"/>
+  </g>
+  <g class="cls-11">
+    <path class="cls-3" d="m6859.53,4000C5589.29,1284.49,2787.8,2278.18,1817.95,0h5042.05v4000h-.47Z"/>
+  </g>
+  <g class="cls-4">
+    <path class="cls-3" d="m3625.53,0h3234.47v3040.38C6153.74,848.23,4098.62,1862.88,3625.53,0"/>
+  </g>
+  <g class="cls-6">
+    <path class="cls-2" d="m0,1447.99c1060.02,1060.16,2893.3,825.15,3930.88,2552.01H0V1447.99Z"/>
+  </g>
+  <g class="cls-7">
+    <path class="cls-2" d="m2829.51,4000H0v-1430.21c854.8,515.35,1964.91,645.51,2829.51,1430.21"/>
+  </g>
+</svg>
