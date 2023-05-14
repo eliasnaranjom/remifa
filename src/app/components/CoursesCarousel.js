@@ -1,5 +1,4 @@
 import '../css/CoursesCarousel.css';
-import { useState } from 'react';
 import CardCourse from './CardCourse';
 
 const CoursesCarrusel = ({data}) => {
@@ -9,8 +8,8 @@ const CoursesCarrusel = ({data}) => {
             <h1>Nuestros cursos</h1>
 
             <div className='Carousel'>
-                {data.map((item) => (
-                    <CardCourse Title={item.Title} Description={item.Description} />
+                {data.map((item, index) => (
+                    <CardCourse key={index} Title={item.Title} Description={item.Description} />
                 ))};
             </div>
         </section>
