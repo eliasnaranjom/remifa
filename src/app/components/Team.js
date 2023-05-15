@@ -28,8 +28,8 @@ const Team = ({ users }) => {
                 onSlideChange={() => console.log('slide change')}
             >
                 {users.map((item, index) => (
-                    <SwiperSlide>
-                        <div key={index} class="personCard swiper-slide">
+                    <SwiperSlide key={index}>
+                        <div class="personCard swiper-slide">
                             <div class="image-content">
                                 <span class="overlay"></span>
                                 <div class="card-image">
