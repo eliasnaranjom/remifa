@@ -27,6 +27,11 @@ const Nav = props => {
             Información
           </a>
         </li>
+        <li className="Nav-item">
+          <a href='#Team'>
+            Equipo de trabajo
+          </a>
+        </li>
       </ul>
       <Button onClick={() => console.log('')}>
         Cursos

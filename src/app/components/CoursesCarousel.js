@@ -10,7 +10,7 @@ const CoursesCarrusel = ({data}) => {
             <div className='Carousel'>
                 {data.map((item, index) => (
                     <CardCourse key={index} Title={item.Title} Description={item.Description} />
-                ))};
+                ))}
             </div>
         </section>
     );

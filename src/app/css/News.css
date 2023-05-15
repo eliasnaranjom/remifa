@@ -1,0 +1,19 @@
+.News{
+    background-color: white;
+    color: black;
+    padding: 6% 20%;
+    text-align: center;
+
+    height: 50vh;
+    max-height: 50vh;
+}
+
+.News h1{
+    font-size: 2em;
+    margin-bottom: 1%;
+}
+
+.News p{
+    text-align: center;
+    
+}
